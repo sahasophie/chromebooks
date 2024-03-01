@@ -1,1 +1,1 @@
-(Chromebooks)[https://www.techcrazy.co.nz/collections/chromebook]
+[Chromebooks](https://www.techcrazy.co.nz/collections/chromebook)
